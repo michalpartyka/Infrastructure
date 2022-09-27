@@ -8,7 +8,7 @@
     <dateFormat>dd-MM-yy HH:mm:ss z</dateFormat>
     <addons>
         <showAddonsInfo>true</showAddonsInfo>
-        <showAddonsInfoCookie>1663950223224</showAddonsInfoCookie>
+        <showAddonsInfoCookie>1664307481848</showAddonsInfoCookie>
     </addons>
     <security>
         <anonAccessEnabled>false</anonAccessEnabled>
@@ -341,4 +341,4 @@
         <tokens/>
     </authentication>
 </config>
-
+    
