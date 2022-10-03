@@ -19,6 +19,8 @@ tool:
           - sonarRunnerInstaller:
               id: "4.7.0.2747"
 unclassified:
+  location:
+    url: http://192.168.44.44:8880/
   sonarGlobalConfiguration:
       buildWrapperEnabled: true
       installations:
